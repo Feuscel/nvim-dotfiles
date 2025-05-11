@@ -44,7 +44,7 @@ return {
                 "emmet_ls",
                 "emmet_language_server",
                 -- "eslint",
-                "marksman",
+                --"marksman",
             },
 
         })
