@@ -128,7 +128,7 @@ return {
                     { section = "startup" },
                     {
                         section = "terminal",
-                        cmd = "ascii-image-converter ~/Downloads/cyberpunk.jpg -C -c",
+                        cmd = "ascii-image-converter ~/.config/nvim/cyberpunk.jpg -C -c",
                         random = 10,
                         pane = 2,
                         indent = 4,
