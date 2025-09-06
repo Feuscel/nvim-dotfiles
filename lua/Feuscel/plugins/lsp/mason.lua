@@ -43,6 +43,7 @@ return {
                 "gopls",
                 "emmet_ls",
                 "emmet_language_server",
+                "zls",
                 -- "eslint",
                 --"marksman",
             },
@@ -57,6 +58,7 @@ return {
                 "pylint",
                 "clangd",
                 "denols",
+                "zls",
                 -- { 'eslint_d', version = '13.1.2' },
             },
 
